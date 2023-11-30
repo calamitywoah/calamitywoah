@@ -1,6 +1,11 @@
-### CalamitousLuna
+### CalaLuna
 
-im a gd player and im learning c++
-website in the works
+```
+#include <iostream>
 
-she/her, it/its
+int main() {
+
+  str discord = "calamitywoah";
+  str linktree = "https://linktr.ee/calamitywoah";
+
+}
